@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  color:aqua;
 }
 
 .App-logo {
@@ -21,7 +22,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color:brown;
 }
 
 .App-link {
@@ -35,4 +36,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+.btn{
+  background-color: black;
+  border: 2px solid yellow;
+  color: yellow;
+  padding: 10px;
+  font-size: 15px;
+  margin: 5px;
+}
+
+.stats {
+  border: 2px solid red;
+  box-shadow: 0 1px 5px orangered;
+  margin: 5px;
+  color: skyblue
+}
+
+img{
+  height: 400px;
+}
+title1{
+  font-size: 60px;
+  
 }
